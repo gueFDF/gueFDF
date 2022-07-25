@@ -14,6 +14,10 @@
 - 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gueFDF&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+<br>
+<a href="https://www.linkedin.com/in/nihad-enes-şen-166651211/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:cybcoder@gmail.com?subject=Hello, Nihat"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gueFDF&hide=css,html,swig,javascript&&layout=compact&locale=cn&theme=dracula)
